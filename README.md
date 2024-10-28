@@ -1,4 +1,3 @@
-### study-of-basic-gates
 ### NAME: S.NAVINKUMAR
 ### REG.NO: 24901075
 ### EXPERIMENT-1: STUDY OF LOGIC GATES
