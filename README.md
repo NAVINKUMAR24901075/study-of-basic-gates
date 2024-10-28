@@ -85,11 +85,14 @@ Y= A⊕B
 
 **RTL realization Output:**
 
-![Screenshot 2024-10-24 211003](https://github.com/user-attachments/assets/2c418e05-8deb-4e12-972a-a5e7be1837a2)
+![Screenshot 2024-10-24 210244](https://github.com/user-attachments/assets/9bb7f1dc-aaea-4dfb-be04-fd04b2b9113d)
+
 
 **RTL**
 
-![Screenshot 2024-10-28 102058](https://github.com/user-attachments/assets/d9905954-57a1-492d-8140-d6e7fe365d19)
+### Output waveform
+
+![Screenshot 2024-10-24 211003](https://github.com/user-attachments/assets/09c45ea0-a5ec-4a8c-a06a-b8352919691d)
 
 **Result:**
 
