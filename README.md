@@ -65,20 +65,21 @@ Y= A⊕B
 
 
 # PROGRAM
- #### module Logicgates(a,b,notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate);
- #### input a,b;
- #### output notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate;
- #### not(notgate,a);
- #### not(notgate,a);
- #### not(notgate,a);
- #### and(andgate,a,b);
- #### or(orgate,a,b);
- #### nand(nandgate,a,b);
- #### nor(norgate,a,b);
- #### xor(xorgate,a,b);
- #### xnor(xnorgate,a,b);
- #### endmodule
-
+~~~
+module Logicgates(a,b,notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate);
+input a,b;
+output notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate;
+not(notgate,a);
+not(notgate,a);
+not(notgate,a);
+and(andgate,a,b);
+or(orgate,a,b);
+nand(nandgate,a,b);
+nor(norgate,a,b);
+xor(xorgate,a,b);
+xnor(xnorgate,a,b);
+endmodule
+~~~
  
 # LOGIC SYMBOL & TRUTH TABLE
 
